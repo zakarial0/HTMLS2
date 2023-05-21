@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pendaftaran Akun Social Media</title>
+</head>
+<body>
+    <Form action="Selamat.html">
+        <Header>
+            <h2>Pendaftaran Akun Social Media</h2>
+        </Header>
+        <label for="Fname">Nama Lengkap : </label>
+        <input type="text" name="Fname" id="nama_lengkap" required minlength="4" maxlength="36"><br><br>
+        <label for="email">Email :</label>
+        <input type="email" id="email" name="Email"  pattern=".+@gmail\.com" required><br><br>
+        <label for="username">Username :</label>
+        <input type="text" name="username" id="username" required><br><br>
+        <label for="Password">Password :</label>
+        <input type="password" name="password" id="pass" required><br><br>
+        <label for="Password">Konfirmasi Password :</label>
+        <input type="password" name="con-password" id="con-pass" required><br><br>
+        <label for="tl">Tanggal Lahir :</label>
+        <input type="date" name="tanggal-lahir" id="tl"><br><br>
+        <label for="kelamin">Jenis Kelamin :</label>
+        <select id="kelamin">
+            <option value="co">Laki-laki</option>
+            <option value="ce">Perempuan</option>
+            <option value="jin">Tank</option>
+        </select>
+        <br><br>
+        <input type="submit" value="kirim">
+        <input type="reset" value="reset">
+        <p>Sudah punya akun ? silahkan <a href="login.html">login</a></p>
+    </Form>
+</body>
+</html>

@@ -1,0 +1,20 @@
+body{
+    background-color: gray;
+}
+span{
+    font-weight: bolder;
+}
+#pertama{
+    background-color: skyblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    width: 700px;
+    padding: 10px 10px 10px 10px;
+}
+#kedua  {
+    background-color: lavender;
+    font-family:Tahoma;
+    font-size: 25px;
+    width: 700px;
+    padding: 10px 10px 10px 10px;
+}

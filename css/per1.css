@@ -1,0 +1,18 @@
+.judul{
+    background-color: yellow;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+#atas{
+    margin-top: -15px;
+    padding-bottom: 6px;
+    text-align: center;
+}
+
+/* ini cara komen di css */
+
+#bawah{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

@@ -1,12 +1,33 @@
-.kotak1{
-    height: 50px;
-    width: 50px;
-    background-color: red;
-    margin: 40px;
+.japan{
+    height: 150px;
+    width: 250px;
+    background-color: white;
+    margin-top: 20px;
 }
-.kotak2{
-    height: 50px;
-    width: 50px;
-    background-color: blue;
-    margin: 20px;
+.bola{
+    width: 60px;
+    height: 60px;
+    background-color: #BC002D;
+    border-radius: 100px;
+    margin-left:91px;
+    margin-top: -106px;
+    margin-bottom: 80px;
+}
+.base{
+    height: 148px;
+    width: 250px;
+    background-color: #C8102E;
+}
+.hor{
+    width: 250px;
+    height: 22px;
+    background-color: white;
+    margin-top: -85px;
+}
+.ver{
+    width: 22px;
+    height: 148px;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: -85px;
 }

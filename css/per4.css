@@ -1,0 +1,34 @@
+body{
+    background-color:gray;
+}
+
+p{
+    font-size: 30px;
+}
+.letter1{
+    letter-spacing: 3px;
+    color: red;
+}
+
+.letter2{
+    letter-spacing: 6px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.letter3{
+    letter-spacing: 8px;
+    color: black;
+    text-transform: capitalize;
+}
+
+img{
+    width: 200px;
+    height: 100%;
+}
+img#gbr1{
+    opacity: 0.4;
+}
+img#gbr2{
+    opacity: 0.1;
+}
